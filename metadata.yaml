@@ -1,4 +1,8 @@
 _repo: Free-Russia_51117
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51117-h/images/cover.jpg
 creator:
   author:
     agent_name: Dixon, William Hepworth
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7953
     wikipedia: http://en.wikipedia.org/wiki/William_Hepworth_Dixon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51117#Free-Russia
 gutenberg_issued: '2016-02-03'
 gutenberg_type: Text
 identifiers:
